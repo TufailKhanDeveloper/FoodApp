@@ -4,7 +4,7 @@ import './App.css';
 import logo from '../src/Assets/Foody Zone (1).svg'
 import { useEffect, useState } from 'react';
 import FoodCards from './Components/FoodCards/FoodCards';
-export const BASE_URL = 'https://serverfoodapp.netlify.app';
+export const BASE_URL = 'https://serverfoodapp.netlify.app/';
 
 function App() {
 
